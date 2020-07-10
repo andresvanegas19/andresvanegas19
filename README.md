@@ -1,7 +1,7 @@
-### Remote developer in python
+## Remote developer in python
 
 Application developer and data engineer passionate about using machine learning to impact business decisions and discover meaningful insights. 
-
+----------
 <p align="center">
   <a href="https://github.com/andresvanegas19"><img src="https://img.shields.io/github/followers/andresvanegas19?label=Github&style=social" alt="GitHub"></a>
   <a href="https://twitter.com/And_Reyw"><img src="https://img.shields.io/twitter/follow/And_Reyw?style=social" alt="Twitter"></a>
