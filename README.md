@@ -36,12 +36,12 @@ Robust full-stack system design implementation
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></a></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/c.svg"></a></code>
+<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 
 
 -----
