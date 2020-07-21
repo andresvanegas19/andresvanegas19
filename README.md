@@ -2,12 +2,18 @@
 
 Application developer and data engineer passionate about using machine learning to impact business decisions and discover meaningful insights. 
 
-<p align="center">
-  <a href="https://twitter.com/And_Reyw"><img src="https://img.shields.io/twitter/follow/And_Reyw?style=social" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/andres-reyes3/"><img src="https://img.shields.io/badge/-andres%20reyes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andres-reyes3/" alt="LinkedIn"></a>
-  <a href="http://andresredev.co/"><img src="https://img.shields.io/github/languages/top/andresvanegas19/holberton-system_engineering-devops" alt="Repository"></a>
-  <a href="https://medium.com/@andresreyesv" style="width: 10px;"><img src="https://img.shields.io/badge/Medium-Follow-lightgrey"></a>
-</p>
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <table>
   <tbody >
     <tr valign="top">
