@@ -8,3 +8,21 @@ Application developer and data engineer passionate about using machine learning 
   <a href="http://andresredev.co/"><img src="https://img.shields.io/github/languages/top/andresvanegas19/holberton-system_engineering-devops" alt="Repository"></a>
   <a href="https://medium.com/@andresreyesv" style="width: 10px;"><img src="https://img.shields.io/badge/Medium-Follow-lightgrey"></a>
 </p>
+<table>
+  <tbody >
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗖</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
