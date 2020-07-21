@@ -27,3 +27,10 @@ Application developer and data engineer passionate about using machine learning 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=andresvanegas19&repo=TechLabs-Project)](https://github.com/andresvanegas19/TechLabs-Project)
 
 <br />
+
+
+<p align="center">
+  <a href="https://twitter.com/And_Reyw"><img src="https://img.shields.io/twitter/follow/And_Reyw?style=social" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/andres-reyes3/"><img src="https://img.shields.io/badge/LinkedIn--blueviolet.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://medium.com/@andresreyesv" style="width: 10px;"><img src="https://img.shields.io/badge/-@andres%20reyes-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@andresreyesv"></a>
+</p>
