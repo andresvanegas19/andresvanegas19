@@ -42,7 +42,7 @@ Robust full-stack system design implementation
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/c.svg"></a></code>
 <code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
-
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 -----
 
