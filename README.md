@@ -19,11 +19,6 @@ Backend development using Flask,Django
 Making for Relational Database Management Systems
 Robust full-stack system design implementation
 
-
-</details>
-
-
-
 **🌱 Currently working on:**
 
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
@@ -54,6 +49,13 @@ Robust full-stack system design implementation
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></a></code>
 
 <div align="center">
+
+
+</details>
+
+
+
+
 
 -----
 
