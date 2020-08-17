@@ -61,7 +61,7 @@ Robust full-stack system design implementation
 
 # The projects I am currently working on:
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=andresvanegas19&repo=AirBnB_clone)](https://github.com/andresvanegas19/AirBnB_clone)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=andresvanegas19&repo=AirBnB_clone_v2)](https://github.com/andresvanegas19/AirBnB_clone)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=andresvanegas19&repo=TechLabs-Project)](https://github.com/andresvanegas19/TechLabs-Project)
 
 <br />
