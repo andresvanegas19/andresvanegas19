@@ -16,15 +16,12 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F2E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/lenguaje C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 </div>
 </div>
 <br>
-<p align="center">
-Application developer and data engineer passionate about using machine learning to impact business decisions and discover meaningful insights. with knowledge in deployment, implementation, and maintenance web applications using Python, Node js, docker, no relational, and relational databases. Always looking for ways to designs fast algorithms that help robust tasks.
-
-<p>Passion and curiosity about learning new things or abilities. Interested to improve soft skills and his goal is to work with data, machine learning, and ETL to impact business decisions and discover meaningful insights.</p>
-
-<p>I am looking forward to gain experience, collaborate and build amazing products for the world!   </p>
-
-
-
+<h2>I am looking forward to gain experience, collaborate and build amazing products for the world!   </h2>
+<p>Application developer and data engineer passionate about using machine learning to impact business decisions and discover meaningful insights. with knowledge in deployment, implementation, and maintenance web applications. Always looking for ways to designs fast algorithms that help robust tasks.</p>
