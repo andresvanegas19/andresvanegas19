@@ -4,6 +4,18 @@
   <a href="https://www.linkedin.com/in/andres-reyes3/"><img src="https://img.shields.io/badge/LinkedIn--blueviolet.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://medium.com/@andresreyesv" style="width: 10px;"><img src="https://img.shields.io/badge/-@andres%20reyes-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@andresreyesv"></a>
 </p>
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white"/>
+</div>
+
+
 
 
 
