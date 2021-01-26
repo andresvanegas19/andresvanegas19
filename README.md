@@ -20,4 +20,11 @@
 </div>
 <br>
 <p align="center">
-Application developer and data engineer passionate about using machine learning to impact business decisions and discover meaningful insights.I am looking forward to gain experience, collaborate and build amazing products for the world!   </p>
+Application developer and data engineer passionate about using machine learning to impact business decisions and discover meaningful insights. with knowledge in deployment, implementation, and maintenance web applications using Python, Node js, docker, no relational, and relational databases. Always looking for ways to designs fast algorithms that help robust tasks.
+
+<p>Passion and curiosity about learning new things or abilities. Interested to improve soft skills and his goal is to work with data, machine learning, and ETL to impact business decisions and discover meaningful insights.</p>
+
+<p>I am looking forward to gain experience, collaborate and build amazing products for the world!   </p>
+
+
+
