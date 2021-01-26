@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
 
 
-<div align="left">
+<div align="center">
 <a href="https://twitter.com/And_Reyw"><img src="https://img.shields.io/twitter/follow/And_Reyw?style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/andres-reyes3/"><img src="https://img.shields.io/badge/LinkedIn--blueviolet.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://medium.com/@andresreyesv" style="width: 10px;"><img src="https://img.shields.io/badge/-@andres%20reyes-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@andresreyesv"></a>
@@ -23,5 +23,5 @@
 </div>
 </div>
 <br>
-<h2>I am looking forward to gain experience, collaborate and build amazing products for the world!   </h2>
+<h2 align="center" >I am looking forward to gain experience, collaborate and build amazing products for the world!   </h2>
 <p>Application developer and data engineer passionate about using machine learning to impact business decisions and discover meaningful insights. with knowledge in deployment, implementation, and maintenance web applications. Always looking for ways to designs fast algorithms that help robust tasks.</p>
