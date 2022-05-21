@@ -5,3 +5,5 @@ I hope you find great help in my repositories and in the contributions I provide
 ![Metrics](/github-metrics.svg)
 
 ---
+![Metrics](/github-metrics.svg)
+[![Metrics](/github-metrics.svg)](#)
