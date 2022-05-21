@@ -1,28 +1,13 @@
 name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}]
-category: github
-description: This plugin displays your recent activity on GitHub.
-examples:
-  default: https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.activity.svg
-index: 13
-supports:
-  - user
-  - organization
-  - repository
-scopes:
-  - public_access
-inputs:
-
-  plugin_activity:
-    description: Enable activity plugin
-    type: boolean
-    default: no
-
-  plugin_activity_limit:
-    description: Display limit
-    type: number
-    default: 5
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
     min: 1
     max: 1000
 
